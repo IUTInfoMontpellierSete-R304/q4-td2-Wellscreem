@@ -1,4 +1,4 @@
-import java.awt.image.BufferedImageFilter;
+package exercice2;
 
 public class Imprimante {
     private static Imprimante single_instance = null;

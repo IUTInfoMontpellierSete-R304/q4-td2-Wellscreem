@@ -1,4 +1,5 @@
-import javax.sound.midi.Soundbank;
+import exercice1.Etiquettes;
+import exercice2.Imprimante;
 
 public class tests {
     public static void main(String[] args) {

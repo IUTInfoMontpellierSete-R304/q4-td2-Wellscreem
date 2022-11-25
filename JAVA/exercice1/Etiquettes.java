@@ -1,3 +1,5 @@
+package exercice1;
+
 public class Etiquettes {
     private static Etiquettes single_instance = null;
     private int compteur;
